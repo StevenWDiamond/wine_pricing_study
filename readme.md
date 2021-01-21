@@ -117,7 +117,7 @@ To gain a deeper understanding of the relationship between wine prices and these
 |designation|Part of wine name that separates this particular wine (i.e. Reserve)|
 |points|Wine Enthusiast review score|
 |price|Cost of wine (on the Wine Enthusiast site, this includes a link to buy)|
-|Province|Wine's province or state of origin (i.e. Provence, Califorinia)|
+|province|Wine's province or state of origin (i.e. Provence, Califorinia)|
 |region_1|Wine's specific region (i.e. Calistoga)|
 |region_2|Wine's general region (i.e. Napa)|
 |taster_name|Name of reviewer|
