@@ -112,7 +112,7 @@ To gain a deeper understanding of the relationship between wine prices and these
 
 |**Feature Name**|**Description**|
 |:---|:---|
-|county|Wine's country of origin|
+|country|Wine's country of origin|
 |description|Wine review copy|
 |designation|Part of wine name that separates this particular wine (i.e. Reserve|
 |points|Wine Enthusiast review score|
