@@ -114,7 +114,7 @@ To gain a deeper understanding of the relationship between wine prices and these
 |:---|:---|
 |country|Wine's country of origin|
 |description|Wine review copy|
-|designation|Part of wine name that separates this particular wine (i.e. Reserve|
+|designation|Part of wine name that separates this particular wine (i.e. Reserve)|
 |points|Wine Enthusiast review score|
 |price|Cost of wine (on the Wine Enthusiast site, this includes a link to buy)|
 |Province|Wine's province or state of origin (i.e. Provence, Califorinia)|
