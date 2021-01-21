@@ -50,7 +50,7 @@ To gain a deeper understanding of the relationship between wine prices and these
         * Review content analysis.
     - We did some unsupervised learning by doing a KPrototypes cluster analysis. Examine these clusters, we were able to better understand these wine groupings.
 4. Modeling and Evaluation
-    - We added the rusults of our KPrototypes clustering to the DataFrame for modeling.
+    - We added the results of our KPrototypes clustering to the DataFrame for modeling.
     - We then used regression modeling, attempting to predict wine price, using RMSE as our metric.
 
 
