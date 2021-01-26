@@ -110,27 +110,27 @@ To gain a deeper understanding of the relationship between wine prices and these
 
 ### Data Dictionary
 
-|**Feature Name**|**Description**|
-|:---|:---|
-|country|Wine's country of origin|
-|description|Wine review copy|
-|designation|Part of wine name that separates this particular wine (i.e. Reserve)|
-|points|Wine Enthusiast review score|
-|price|Cost of wine (on the Wine Enthusiast site, this includes a link to buy)|
-|province|Wine's province or state of origin (i.e. Provence, Califorinia)|
-|region_1|Wine's specific region (i.e. Calistoga)|
-|region_2|Wine's general region (i.e. Napa)|
-|taster_name|Name of reviewer|
-|taster_twitter_handle|Twitter information for reviewer|
-|title|Full name of wine|
-|variety|Grapes used to make the wine, sometimes called varietals|
-|Unnamed: 0|Remnant column from saving without removing index|
-|winery|Winemaker name|
+|**Feature Name**|**Data Type**|**Description**|
+|:---|:---|:---|
+|country|string|Wine's country of origin|
+|description|string|Wine review copy|
+|designation|string|Part of wine name that separates this particular wine (i.e. Reserve)|
+|points|integer|Wine Enthusiast review score|
+|price|float|Cost of wine (on the Wine Enthusiast site, this includes a link to buy)|
+|province|string|Wine's province or state of origin (i.e. Provence, Califorinia)|
+|region_1|string|Wine's specific region (i.e. Calistoga)|
+|region_2|string|Wine's general region (i.e. Napa)|
+|taster_name|string|Name of reviewer|
+|taster_twitter_handle|string|Twitter information for reviewer|
+|title|string|Full name of wine|
+|variety|string|Grapes used to make the wine, sometimes called varietals|
+|Unnamed: 0|integer|Remnant column from saving without removing index|
+|winery|string|Winemaker name|
 
 ## References
-- https://www.kaggle.com/zynicide/wine-reviews
-- https://www.winemag.com/
-- https://www.wine-searcher.com/grape-varieties
-- https://www.thewinecellarinsider.com/wine-topics/wine-educational-questions/abc-of-wine-glossary-of-wine-terms/
-- https://en.wikipedia.org/wiki/Pinot_noir#Synonyms (example of wikipedia information used)
-- https://data.library.virginia.edu/interpreting-log-transformations-in-a-linear-model/
+1. https://www.kaggle.com/zynicide/wine-reviews
+1. https://www.winemag.com/
+1. https://www.wine-searcher.com/grape-varieties
+1. https://www.thewinecellarinsider.com/wine-topics/wine-educational-questions/abc-of-wine-glossary-of-wine-terms/
+1. https://en.wikipedia.org/wiki/Pinot_noir#Synonyms (example of wikipedia information used)
+1. https://data.library.virginia.edu/interpreting-log-transformations-in-a-linear-model/
