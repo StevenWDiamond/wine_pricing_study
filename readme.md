@@ -127,6 +127,8 @@ To gain a deeper understanding of the relationship between wine prices and these
 |Unnamed: 0|integer|Remnant column from saving without removing index|
 |winery|string|Winemaker name|
 
+**NOTE: All of this data is from Wine Enthusiast Magazine and was obtained as part of the Kaggle study referenced below.**
+
 ## References
 1. https://www.kaggle.com/zynicide/wine-reviews
 1. https://www.winemag.com/
